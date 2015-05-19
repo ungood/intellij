@@ -2,7 +2,15 @@
   <component name="CodeInsightSettings">
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="checkstyle.thirdparty" />
+    <EXCLUDED_PACKAGE NAME="com.amazon.coral.github" />
+    <EXCLUDED_PACKAGE NAME="com.amazon.coral.google" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang3.Range" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.Is" />
     <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.springframework.test" />
+    <EXCLUDED_PACKAGE NAME="zaaa.com" />
   </component>
 </application>
