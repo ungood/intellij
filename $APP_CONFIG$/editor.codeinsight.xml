@@ -5,6 +5,7 @@
     <EXCLUDED_PACKAGE NAME="checkstyle.thirdparty" />
     <EXCLUDED_PACKAGE NAME="com.amazon.coral.github" />
     <EXCLUDED_PACKAGE NAME="com.amazon.coral.google" />
+    <EXCLUDED_PACKAGE NAME="com.beust.jcommander.internal" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.lang3.Range" />
